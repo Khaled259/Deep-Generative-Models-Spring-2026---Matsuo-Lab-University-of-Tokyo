@@ -1,4 +1,3 @@
-This is a template for a clean, professional GitHub `README.md` to showcase your participation and progress in the **University of Tokyo’s Matsuo Lab Deep Generative Models Seminar (Spring 2026)**.
 
 ***
 
